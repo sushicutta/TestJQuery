@@ -13,7 +13,7 @@ public class Index {
     public String getMessage() {
 
       return "JBoss 7 and Maven do rock! " +
-              someBean.sayHello();
+              someBean.getHello();
 
     }
 
